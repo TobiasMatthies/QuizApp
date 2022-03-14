@@ -52,6 +52,10 @@ nav {
     background-color: #080a2e !important;
 }
 
+.link:hover {
+    color: #ce63ff;
+}
+
 #logo {
     margin-bottom: 200px;
 }
